@@ -47,3 +47,23 @@
 // multiplo (num1);
 
 //Ejercicio 4
+
+// function cerotonomber(numero) {
+
+//     for (let i = 0; i <= numero; i++) {
+//       console.log(i);
+//     }
+//   }
+ 
+// cerotonomber(10);
+
+
+//Ejercicio 6
+
+let array = [1,2,3,4,5,6,7,8,9,10]
+
+function arrayvalues () {
+    if (let i = 0; i < array.length; i++)
+
+    cp
+}
