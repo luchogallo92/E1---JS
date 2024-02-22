@@ -48,22 +48,69 @@
 
 //Ejercicio 4
 
-// function cerotonomber(numero) {
-
-//     for (let i = 0; i <= numero; i++) {
-//       console.log(i);
-//     }
-//   }
- 
 // cerotonomber(10);
+
+//  function cerotonomber(numero) {
+
+//      for (let i = 0; i <= numero; i++) {
+//        console.log(i);
+//      }
+//    }
+ 
+//Ejercicio 5
+
+// const nombre = 'Pedrito';
+// const cantidad = 7;
+
+// function imprimirnombre(nombre, cantidad) {
+//     for (let i = 0; i < cantidad; i++) {
+//         console.log(nombre);
+//     }
+// }
+
+// imprimirnombre(nombre, cantidad);
 
 
 //Ejercicio 6
 
-let array = [1,2,3,4,5,6,7,8,9,10]
+// let arraynumber = [1,2,3,4,5,6,7,8,9,10];
 
-function arrayvalues () {
-    if (let i = 0; i < array.length; i++)
+// function arrayvalues (arraynumber) {
+//     for (var i = 0; i < arraynumber.length; i++) {
+//         console.log(arraynumber[i])
+//     } 
+// };
 
-    cp
-}
+// arrayvalues (arraynumber);
+
+//Ejercicio 7
+// Recordar que el primer valor del array es 0
+
+// let arraynumber = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+// function arrayfilter(array) {
+//     for (let i = 0; i < array.length; i++) {
+//         if (i === 5) {
+//             console.log("El número en la 5ta posición es el 6");
+//         } else {
+//             console.log(array[i]);
+//         }
+//     }
+// }
+
+// arrayfilter(arraynumber);
+
+//Ejercicio 8 (Tabla multiplicada por numero x)
+// const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// const numeromult = 10;
+
+// function multiplier(numbers, numero) {
+//     for (let i = 0; i < numbers.length; i++) {
+
+//         console.log("El número " + numbers[i] + " multiplicado por " + numero + " es igual a " + (numbers[i] * numero));
+//     }
+// }
+
+// multiplier(numbers, numeromult);
+
+
