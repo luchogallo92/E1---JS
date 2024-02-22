@@ -113,4 +113,5 @@
 
 // multiplier(numbers, numeromult);
 
+console.log ("Descomentar para ver los resultados")
 
